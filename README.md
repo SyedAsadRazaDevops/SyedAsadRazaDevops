@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/syedasaddevops" target="blank"><img src="https://img.shields.io/twitter/follow/syedasaddevops?logo=twitter&style=for-the-badge" alt="syedasaddevops" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/syedasaddevops" target="blank"><img src="https://img.shields.io/twitter/follow/syedasaddevops?logo=linkedin&style=for-the-badge" alt="syedasaddevops" /></a> </p>
+<p align="left"> <a href="https://linkedin.com/in/syedasadrazadevops" target="blank"><img src="https://img.shields.io/twitter/follow/syedasaddevops?logo=linkedin&style=for-the-badge" alt="syedasaddevops" /></a> </p>
 
 - 🔭 I’m currently working on [Cloud & DevOps Engineer](https://www.linkedin.com/company/ascend-advanced-healthcare-solutions/mycompany/)
 
