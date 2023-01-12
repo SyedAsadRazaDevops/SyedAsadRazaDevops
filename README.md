@@ -11,13 +11,13 @@
 
 - 🔭 I’m currently working on [Cloud & DevOps Engineer](https://www.linkedin.com/company/ascend-advanced-healthcare-solutions/mycompany/)
 
-- 🌱 I’m currently learning **python , Golang, Azure DevOps, Splunk, Cyber-Security, DevSecOps**
+- 🌱 I’m currently learning **python , Golang,AWS Certified Solutions Architect, Azure DevOps, Splunk, Cyber-Security, DevSecOps**
 
 - 👯 I’m looking to collaborate on [Laravel, PHP, MongoDB, Docker, Kubernetes, Node, Reactjs, Nginx, AWS ](https://github.com/SyedAsadRazaDevops?tab=repositories)
 
 - 👨‍💻 All of my projects are available at [https://github.com/SyedAsadRazaDevops?tab=repositories](https://github.com/SyedAsadRazaDevops?tab=repositories)
 
-- 📝 I regularly write articles on [https://dev.to/syedasadrazadevops || https://syedasadrazadevops.medium.com/deep-dive-into-kubernetes-way-to-know-about-kubernetes-6a423c262b61](https://dev.to/syedasadrazadevops || https://syedasadrazadevops.medium.com/deep-dive-into-kubernetes-way-to-know-about-kubernetes-6a423c262b61)
+- 📝 I regularly write articles on [https://dev.to/syedasadrazadevops || https://dev.to/awsometownhall/aws-devops-services-a-comprehensive-guide-94n || https://syedasadrazadevops.medium.com/deep-dive-into-kubernetes-way-to-know-about-kubernetes-6a423c262b61](https://dev.to/syedasadrazadevops || https://syedasadrazadevops.medium.com/deep-dive-into-kubernetes-way-to-know-about-kubernetes-6a423c262b61)
 
 - 💬 Ask me about **Laravel, PHP, MongoDB, Docker, Kubernetes, Node, Reactjs, Nginx**
 
