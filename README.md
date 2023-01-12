@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **python , Golang, Azure DevOps, Splunk, Cyber-Security, DevSecOps**
 
-- 👯 I’m looking to collaborate on [Laravel, PHP, MongoDB, Docker, Kubernetes, Node, Reactjs, Nginx](https://github.com/SyedAsadRazaDevops?tab=repositories)
+- 👯 I’m looking to collaborate on [Laravel, PHP, MongoDB, Docker, Kubernetes, Node, Reactjs, Nginx, AWS ](https://github.com/SyedAsadRazaDevops?tab=repositories)
 
 - 👨‍💻 All of my projects are available at [https://github.com/SyedAsadRazaDevops?tab=repositories](https://github.com/SyedAsadRazaDevops?tab=repositories)
 
