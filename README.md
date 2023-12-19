@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm SYED ASAD RAZA</h1>
 <h3 align="center">A passionate DevOps Instructor | Microsoft Certified Trainer | AWS Cloud Engineer | Cloud & DevOps Engineer at Ascend healthcare | 云工程师 | Microsoft Azure Cloud Engineer | Azure Administrator | ADDS | Lbistech | Microtechx</h3>
+<div align="center"><img src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" alt="Gif" width="600px" height="400px"></div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedasadrazadevops&label=Profile%20views&color=0e75b6&style=flat" alt="syedasadrazadevops" /> </p>
 
